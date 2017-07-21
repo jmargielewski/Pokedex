@@ -1,4 +1,6 @@
 # Pokedex
-Pokemon API. Search Pokemon by name. 
+## Search Pokemon by name. 
+
+### ReactJS & Sass
 
 https://jmargielewski.github.io/Pokedex/
