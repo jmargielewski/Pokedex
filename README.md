@@ -3,4 +3,4 @@
 
 ### ReactJS & Sass
 
-https://jmargielewski.github.io/Pokedex/
+https://jmargielewski.github.io/Pokedex-React-API/
